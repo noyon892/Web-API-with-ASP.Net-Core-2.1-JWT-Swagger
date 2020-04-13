@@ -1,0 +1,14 @@
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+H:\Work\Hal Technologies Ltd\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
